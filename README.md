@@ -1,5 +1,5 @@
 # FS Fourier Series
-fourier series decomposition
+Fourier series decomposition
 
 From [Wikipedia](http://en.wikipedia.org/wiki/Fourier_series):
 
